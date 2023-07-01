@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Click [here](https://text-utils-react-omega.vercel.app/) to view live site
+# Click [here](https://text-modifier-react.vercel.app/) to view live site
 
 
 ## Available Scripts
